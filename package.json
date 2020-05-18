@@ -1,8 +1,8 @@
 {
-  "name": "electron-updater-example",
+  "name": "auto-update",
   "version": "0.7.1",
   "main": "main.js",
-  "description": "electron-updater example project",
+  "description": "auto-update project",
   "author": "Bikram Regmi",
   "scripts": {
     "publish": "build -p always"
